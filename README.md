@@ -15,10 +15,11 @@ I'm a Front-end Web Developer, UI Developer, Web Designer with a passion for bui
 
 ## Skills
 ### Web Technologies
-- **Designing:** HTML5, CSS3.(SCSS)
+- **Designing:** HTML5, CSS3 (SCSS).
 - **Responsiveness:** Bootstrap, Tailwind-CSS.
 - **Aspiring Frameworks:** ReactJS.
 - **Familiar Languages:** C, C++, JavaScript, Python, Core-Java.
+- **Database:** Basic SQL.
 - **Tools:** Git, Canva, Wix, VS Code.
 - **Deployments Area:** Netlify, Varcel.
 
