@@ -4,7 +4,7 @@ I'm a Front-end Web Developer, UI Developer, Web Designer with a passion for bui
 
 ## About Me
 
-- 🌱 I’m currently learning **ReactJS**.
+- 🌱 I’m currently learning **Web Development** in detail.
 - 👯 I’m looking to collaborate on **open-source projects** and **web design and development**.
 - 💬 Ask me about **HTML5**, **CSS3**, **JavaScript** and **GSAP**.
 - 📫 How to reach me: [gaurityagi7524@gmail.com](mailto:gaurityagi7524@gmail.com)
