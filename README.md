@@ -21,7 +21,7 @@ I'm a Front-end Web Developer, UI Developer, Web Designer with a passion for bui
 - **Familiar Languages:** C, C++, JavaScript, Python, Core-Java.
 - **Database:** Basic SQL.
 - **Tools:** Git, Canva, Wix, VS Code.
-- **Deployments Area:** Netlify, Varcel.
+- **Deployment Areas:** Netlify, Varcel.
 
 ## Connect with me
 
