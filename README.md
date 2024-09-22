@@ -17,11 +17,11 @@ I'm a Front-end Web Developer, UI Developer, Web Designer with a passion for bui
 ### Web Technologies
 - **Designing:** HTML5, CSS3 (SCSS).
 - **Responsiveness:** Bootstrap, Tailwind-CSS.
-- **Aspiring Frameworks:** ReactJS.
+- **Aspiring Frameworks:** ReactJS, AngularJS.
 - **Familiar Languages:** C, C++, JavaScript, Python, Core-Java.
-- **Database:** Basic SQL.
-- **Tools:** Git, Canva, Wix, VS Code.
-- **Deployment Areas:** Netlify, Varcel.
+- **Database:** Basic MySQL.
+- **Tools:** Git, GitHub, Canva, VS Code, WordPress, MS Office.
+- **Deployment Areas:** Netlify, Varcel, WordPress, Canva.
 
 ## Connect with me
 
